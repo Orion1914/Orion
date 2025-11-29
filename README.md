@@ -1,41 +1,104 @@
 # ✨ Olá, me chamo Victor! ✨
 
-- 🔭 Atualmente estou trabalhando em **Victor Silot Brokers**  
-- 🌱 Atualmente estou aprendendo programação no Programa **ONE**  
+- 🎓 Sou estudante de **Engenharia de Software na Anhanguera**
+- 💻 Atualmente estudando o programa **ONE – Oracle Next Education**
+- 🏢 Trabalho na **SF Formas**
+- ☁️ **Certificado Oracle Cloud Infrastructure Foundations 2025**
+  
+---
 
-## Ferramentas e Tecnologias
+## 🚀 Tecnologias que estudo e utilizo
 
-<div style="display: flex; gap: 10px;">
+### **Back-end**
+
+* Java
+* Spring & Spring Boot
+* APIs REST
+* Maven
+* JPA / Hibernate
+* C (Atualmente na universidade)
+
+### **Banco de Dados**
+
+* PostgreSQL
+* MySQL
+
+### **Front-end**
+
+* JavaScript
+* React
+* HTML5
+* CSS3
+
+### **Outras tecnologias**
+
+* Python
+* Git & GitHub
+* Oracle Cloud (OCI — Foundations Certified)
+
+---
+
+## 🧩 Soft Skills
+
+* Trabalho em equipe
+* Comunicação clara
+* Resolução de problemas
+* Pensamento analítico
+* Organização e gestão do tempo
+* Aprendizado rápido
+* Adaptabilidade
+
+---
+
+## 📚 Cursos e Formação
+
+* Engenharia de Software — Anhanguera
+* Programa ONE — Oracle + Alura
+* Linguagem C — Universidade (disciplina atual)
+* Certificação OCI Foundations 2025
+* Diversos cursos complementares de soft skills
+
+---
+
+## 🔧 Ferramentas e Tecnologias (com ícones)
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgresql"/>         
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="filter: brightness(0) invert(1);" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </div>
 
-## Contatos
+---
+
+## 📬 Contatos
 
 <div>
   <a href="https://instagram.com/victor.casado.silot/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>  
+  </a>
   <a href="https://www.facebook.com/profile.php?id=61572637172460" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>  
+  </a>
   <a href="mailto:victorsilordev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>  
+  </a>
   <a href="https://www.linkedin.com/in/victorsilot" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>   
+  </a>
 </div>
 
-## GitHub Stats ⚡
+---
+
+## ⚡ GitHub Stats
 
 <div>
   <a href="https://github.com/jehu1914">
