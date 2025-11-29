@@ -1,13 +1,13 @@
 # ✨ Olá, me chamo Victor Silot! ✨
 
 - 🎓 Sou estudante de **Engenharia de Software na Anhanguera**
-- 💻 Atualmente estudando o programa **ONE – Oracle Next Education**
+- 💻 Estudei no programa **ONE – Oracle Next Education**
 - 🏢 Trabalho na **SF Formas**
 - ☁️ **Certificado Oracle Cloud Infrastructure Foundations 2025**
 
 ---
 
-## 🚀 Tecnologias que estudo e utilizo
+## 🚀 Tecnologias 
 
 ### **Back-end**
 - Java  
