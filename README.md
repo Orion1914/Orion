@@ -102,7 +102,7 @@
 
 <div>
   <a href="https://github.com/Orion1914">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehu1914&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jehu1914&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orion1914&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Orion1914&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </div>
