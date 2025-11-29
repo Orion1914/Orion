@@ -1,4 +1,4 @@
-# ✨ Olá, me chamo Victor! ✨
+# ✨ Olá, me chamo Victor Silot! ✨
 
 - 🎓 Sou estudante de **Engenharia de Software na Anhanguera**
 - 💻 Atualmente estudando o programa **ONE – Oracle Next Education**
