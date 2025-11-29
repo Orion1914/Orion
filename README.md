@@ -15,7 +15,7 @@
 - APIs REST  
 - Maven  
 - JPA / Hibernate  
-- C (Atualmente na universidade)
+- C 
 
 ### **Banco de Dados**
 - PostgreSQL  
@@ -48,7 +48,6 @@
 ## 📚 Cursos e Formação
 - Engenharia de Software — Anhanguera  
 - Programa ONE — Oracle + Alura  
-- Linguagem C — Universidade  
 - Certificação OCI Foundations 2025  
 - Cursos complementares de soft skills  
 
