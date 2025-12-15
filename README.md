@@ -78,10 +78,10 @@
   <a href="https://instagram.com/victor.casado.silot/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61572637172460" target="_blank">
+  <a href="https://www.facebook.com/victormanuel.casado.90" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
-  <a href="mailto:victorsilordev@gmail.com">
+  <a href="mailto:victorsilotdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/victorsilot" target="_blank">
