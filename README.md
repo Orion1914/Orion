@@ -109,5 +109,6 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orion1914&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- Streak Stats - versão alternativa -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orion1914&theme=dark" alt="GitHub Streak Stats" />
 </div>
